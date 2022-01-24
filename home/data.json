@@ -1,0 +1,91 @@
+{
+  "bannerTitle": "현실과 상상이 어우러진 아이들 몸머리맘의 바른 잘큼!",
+  "banners": [
+    "banner1.png",
+    "banner1.png",
+    "banner1.png",
+    "banner1.png",
+    "banner1.png"
+  ],
+  "cards": [
+    {
+      "imagePosition": "right",
+      "image": "jalkeum-center.png",
+      "logo": "jalkeum-center-logo.svg",
+      "title": [
+        {
+          "text": "잘큼센터란?",
+          "highlights": [
+            "잘큼센터"
+          ]
+        }
+      ],
+      "description": [
+        {
+          "text": "아이들 몸머리맘의 안전하고 즐거운 건강함 이라는",
+          "highlights": [
+            "아이들 몸머리맘의 안전하고 즐거운 건강함"
+          ]
+        },
+        {
+          "text": "사명으로 유소년 대상 교육 및 놀이수업을 운영합니다."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "유소년의 기초강화 교육 (GYM&DANCE) 과"
+        },
+        {
+          "text": "다양한 프라이빗 PLAY, 방학특강 잘큼스쿨,"
+        },
+        {
+          "text": "스포츠 특성화 교육 등을 운영하고 있습니다."
+        }
+      ],
+      "fragment": "jalkeum-center"
+    },
+    {
+      "imagePosition": "left",
+      "image": "kids-run.png",
+      "logo": "kids-run-logo.svg",
+      "title": [
+        {
+          "text": "키즈런이란?",
+          "highlights": [
+            "키즈런"
+          ]
+        }
+      ],
+      "description": [
+        {
+          "text": "아이들 몸머리맘의 안전하고 건강한 즐거움을 사명으로",
+          "highlights": [
+            "아이들 몸머리맘의 안전하고 건강한 즐거움"
+          ]
+        },
+        {
+          "text": "운영하는 유소년 대상 상용 콘텐츠 입니다."
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "공원, 박물관, 학교, 체육관, 온라인 등"
+        },
+        {
+          "text": "언제 어디서나 아이들의 건강, 지혜, 관계 형성을"
+        },
+        {
+          "text": "목표로 진행하고 있습니다."
+        }
+      ],
+      "fragment": "kids-run"
+    }
+  ],
+  "appStoreLink": "",
+  "googlePlayLink": "",
+  "snsAccount": "@kidsrun.official",
+  "smartStoreLink": "https://smartstore.naver.com/jalkeum",
+  "kakaoTalkAccount": "키즈런 @kidsrun"
+}
