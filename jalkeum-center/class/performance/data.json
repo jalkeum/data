@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "banner": "banner.png",
+      "title": "잘큼전(展)",
+      "subTitle": "performance, 꿈을 펼치는 무대",
+      "description": [
+        {
+          "text": "매년 5월과 11월 잘큼센터의 모든 쌤과 학생, 그리고 그 보호자들이 하나가 되어 잘큼 Class의 배움과 성과를 펼쳐 보이는 축제입니다."
+        },
+        {
+          "text": "잘큼센터에서 수강한 아이들이 모두 한 자리에 모여 그간 배웠던 것을 부모님과 친구들에게 뽐내는 자리로, 무대를 준비하고 연습하는 과정에서 협동심과 성취감, 자신감을 고취할 수 있습니다."
+        }
+      ],
+      "slideImages": [
+        "slide.png",
+        "slide.png",
+        "slide.png",
+        "slide.png"
+      ]
+    },
+    {
+      "preparing": true,
+      "title": "잘큼배(盃)",
+      "subTitle": "Competition, 역량을 뽐내는 무대",
+      "description": [
+        {
+          "text": "잘큼센터 Class 수강생들의 역량을 종목별, 지역별로 뽐내는 대회"
+        }
+      ]
+    }
+  ]
+}

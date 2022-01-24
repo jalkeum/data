@@ -1,0 +1,46 @@
+{
+  "performances": [
+    {
+      "logo": "school-race-logo.png",
+      "title": "스쿨레이스(Schoolace)",
+      "target": "대상연령 초,중등 전학년",
+      "description": [
+        {
+          "text": "학교에서 친구들과 키즈런! 전교생 또는 학년단위로 진행되는 키즈런 프로그램입니다."
+        },
+        {
+          "text": "장소는 해당 학교 또는 별도의 협의된 장소에서 진행 가능하며, 학년, 장소, 인원 수에 맞게 맞춤형으로 진행합니다. 다양한 컨셉의 프로그램에서 학생들 모두가 주인공이 되어 다양한 미션을 수행하여 능력을 획득하고 즐거운 메인게임을 진행하는 Real Mission Game 입니다."
+        }
+      ],
+      "performanceImage": "school-race-performance.png",
+      "bottomImages": [
+        "school-race-bottom1.png",
+        "school-race-bottom2.png",
+        "school-race-bottom3.png",
+        "school-race-bottom4.png",
+        "school-race-bottom5.png"
+      ]
+    },
+    {
+      "logo": "schoolympic-logo.png",
+      "title": "스쿨림픽(Schoolympic)",
+      "target": "대상연령 초,중등 전학년",
+      "description": [
+        {
+          "text": "나도 올림픽 선수! 미니 올림픽은 하계 올림픽 종목을 형상화하여 모든 학생들이 스포츠 대회에 참여한 느낌이 들도록 만든 프로그램입니다."
+        },
+        {
+          "text": "한 반이 함께 움직이지만 모든 학생들이 동시에 참여할 수 있도록 구성하였으며, 가장 잘 조직되는 반에는 더 많은 점수를 부여하여 협동과 질서를 강조합니다. 마지막에는 반 대항전까지 있어 반 별 체험학습이나 운동회 프로그램으로 각광받고 있습니다."
+        }
+      ],
+      "performanceImage": "schoolympic-performance.png",
+      "bottomImages": [
+        "schoolympic-bottom1.png",
+        "schoolympic-bottom2.png",
+        "schoolympic-bottom3.png",
+        "schoolympic-bottom4.png",
+        "schoolympic-bottom5.png"
+      ]
+    }
+  ]
+}
