@@ -1,0 +1,108 @@
+{
+  "banners": [
+    "banner.png",
+    "banner.png",
+    "banner.png",
+    "banner.png"
+  ],
+  "title": "키즈런 아레나레이스",
+  "subTitle": "유소년의 바른 성장을 위해!",
+  "description": [
+    {
+      "text": "몸,머리,맘(지/덕/체) 주제 별로 실내 체육관에 구성한 '아카데미 존','레크레이션 존', '스포츠 존'의 다양한 세부 미션을 참가자가 자유롭게 도전하는 프로그램입니다. 자발적인 참여로 도전의식을 높이고, 서로 협동하는 과정에서 즐거움을 느끼며 에너지를 발산합니다.",
+      "highlights": [
+        "참가자가 자유롭게 도전하는 프로그램"
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "참가자 기록은 맞춤형으로 고객에게 제공되고, 누적되어 성장과정을 피드백 할 수 있습니다. 나아가 축적 및 분석한 데이터는 유소년의 바른 성장을 지속적, 순환적으로 강화할 수 있습니다.",
+      "highlights": [
+        "성장과정을 피드백",
+        "유소년의 바른 성장"
+      ]
+    }
+  ],
+  "logo": "logo.png",
+  "performanceImage": "performance.png",
+  "performanceInfo": [
+    {
+      "title": "참가비",
+      "content": [
+        {
+          "text": "34,000원 / 1인"
+        }
+      ]
+    },
+    {
+      "title": "성장 포인트",
+      "content": [
+        {
+          "text": "도전의식, 주체성, 협동성"
+        }
+      ]
+    },
+    {
+      "title": "특장점",
+      "content": [
+        {
+          "text": "- 아이들만 참가 (보호자 및 선생님 참여 불가)"
+        },
+        {
+          "text": "- 안전을 위한 출입 철저 통제"
+        },
+        {
+          "text": "- 200명 이상 수용 가능"
+        },
+        {
+          "text": "- 약 30여 종의 게임"
+        },
+        {
+          "text": "- 1일 2회 진행 가능"
+        }
+      ]
+    }
+  ],
+  "bottomDescriptions": [
+    {
+      "image": "bottom1.png",
+      "imagePosition": "right",
+      "logo": "bottom-logo.png",
+      "title": "아레나레이스 001",
+      "info": "19년 01월, 협찬사: 북21",
+      "description": [
+        {
+          "text": "자체 모객, 자체 진행"
+        },
+        {
+          "text": "잠실 학생체육관 / 오전, 오후 2타임 진행"
+        }
+      ]
+    },
+    {
+      "image": "bottom2.png",
+      "imagePosition": "left",
+      "logo": "bottom-logo.png",
+      "title": "아레나레이스 002",
+      "info": "19년 10월, 협찬사: 세노비스",
+      "description": [
+        {
+          "text": "\"세노비스와 함께하는 키즈런 아레나레이스\" 타이틀을 걸고,"
+        },
+        {
+          "text": "신제품 런칭 홍보를 목적으로 진행"
+        },
+        {
+          "text": "서울대 체육관 / 오전, 오후 2타임 진행 / 500여명 참여"
+        }
+      ]
+    }
+  ],
+  "link": {
+    "text": "이용권 구매하러 GO ! ▶",
+    "url": "",
+    "color": "bright-red"
+  }
+}
