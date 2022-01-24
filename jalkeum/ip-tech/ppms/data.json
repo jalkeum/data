@@ -1,0 +1,63 @@
+{
+  "banner": "banner.png",
+  "title": "PPMS",
+  "fullName": "Performance Pilot Multimedia System",
+  "description": [
+    {
+      "text": "잘큼의 다양한 레파토리에 입체적인 캐릭터로 스토리를 구성합니다. 몸 머리 맘의 조화로운 구성을 갖춘 잘큼의 퍼포먼스 별 프로시쥬어에 맞춰 기승전결의 흐름이 있는 '극' 형태로 전체를 관통하는 multimedia source를 제작합니다.",
+      "highlights": [
+        "몸 머리 맘",
+        "multimedia source"
+      ]
+    },
+    {
+      "text": "프로그램 진행 당시 뿐 아니라 사전, 사후, 그리고 온라인과 오프라인 환경 어디서든 미디어를 통해 폭넓은 퍼포먼스를 제공합니다.",
+      "highlights": [
+        "미디어를 통해 폭넓은 퍼포먼스"
+      ]
+    }
+  ],
+  "background": [
+    {
+      "text": "잘큼의 주요 서비스 형태인 퍼포먼스는 제공자(선생님)와 이용자(유소년) 간 Off-line 및 On-line 상 Contact로 완성합니다."
+    },
+    {
+      "text": "이러한 특성에 따라 잘큼의 퍼포먼스가 고객이 기대하는 이상의 상품성을 갖추려면 몇가지 문제를 극복해야 합니다."
+    },
+    {
+      "text": "인적 서비스의 높은 장벽인 인재 육성 및 유지비용과 일정한 서비스 제공, 영화나 게임 등 untact콘텐츠의 다양한 캐릭터, 스토리, 유니버스 등에 버금가는 몰입도, 서사구조나 극의 형태를 반영할 수 있는 개발 툴과 지적재산 등을 갖춰야 합니다."
+    }
+  ],
+  "expectedEffects": [
+    {
+      "logo": "piggy-bank.svg",
+      "title": "인재 발굴/육성/유지 비용 절감",
+      "description": "인재 발굴/육성/유지 비용을 획기적으로 낮춰 잘큼 퍼포먼스 시장의 장벽을 낮춘다."
+    },
+    {
+      "logo": "blocks.svg",
+      "title": "퍼포먼스 정량제공 실현",
+      "description": "인적 서비스인 잘큼 퍼포먼스의 정량 제공을 비약적으로 실현하고 이를 라이선스화 한다."
+    },
+    {
+      "logo": "panorama.svg",
+      "title": "메타버스 현실화",
+      "description": "메타버스를 가시적인 현실로 만들어 퍼포먼스 몰입도와 브랜드 가치를 높인다."
+    },
+    {
+      "logo": "people.svg",
+      "title": "콘텐츠 개발 참여 확대",
+      "description": "기존의 툴을 극 형태로 전환하여 일반적인 콘텐츠 개발자의 참여를 늘린다."
+    },
+    {
+      "logo": "music.svg",
+      "title": "서비스의 지적재산화",
+      "description": "캐릭터, 음원, 스토리 등 다양한 형태로 서비스의 지적재산화에 속도를 올린다."
+    },
+    {
+      "logo": "organization.svg",
+      "title": "OSMU 콘텐츠 산업 진입",
+      "description": "지적재산을 통해 One Source Multi Use 형태로 다양한 콘텐츠 산업에 진입한다."
+    }
+  ]
+}
