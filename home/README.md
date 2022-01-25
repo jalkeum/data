@@ -18,8 +18,8 @@
 |imagePosition |`string`              |`"left"` 혹은 `"right"` 사용 가능. 카드 이미지 위치 설정             |
 |image         |`string`              |카드 이미지 이름 설정                                                |
 |logo          |`string`              |카드 내 로고 이미지 이름 설정                                        |
-|title         |`HighlightingText[]`  |[HighlightingText 데이터 구조](#highlighting-데이터-구조) 확인   |
-|description   |`HighlightingText[]`  |[HighlightingText 데이터 구조](#highlighting-데이터-구조) 확인   |
+|title         |`HighlightingText[]`  |[HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인   |
+|description   |`HighlightingText[]`  |[HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인   |
 |fragment      |`string`              |변경 금지                                                            |
 
 ## HighlightingText 데이터 구조
