@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | banner | `string` | true | 배너 이미지 이름 설정 |
 | ttle | `string` | true | 배너 하단 제목 설정 |
-| description | `HighlightingText[]` | [HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인. 제목 하단 설명 설정 |
+| description | `HighlightingText[]` | true | [HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인. 제목 하단 설명 설정 |
 | friends | `Friend[]` | true | [Friend 데이터 구조](#friend-데이터-구조) 확인. 잘큼 프렌즈 카드 영역 설정 |
 | slider | `string` | true | 잘큼 프렌즈 하단 슬라이드 이미지 이름 설정 |
 
