@@ -4,4 +4,4 @@
 | --- | --- | --- | --- |
 | title | `string` | true | |
 | url | `string` | true | |
-| description | `HighlightingText[]` | [HighlightingText](./highlighting-text.md) |
+| description | `HighlightingText[]` | true | [HighlightingText](./highlighting-text.md) |
