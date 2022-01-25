@@ -2,8 +2,8 @@
 
 ## 목차
 
-1. [JSON이란?](https://github.com/jalkeum/data/tree/main#json)
-2. [데이터 위치](https://github.com/jalkeum/data/tree/main#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%84%EC%B9%98)
+1. [JSON이란?](#json)
+2. [데이터 위치](#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9C%84%EC%B9%98)
 
 ## JSON이란?
 
