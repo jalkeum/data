@@ -6,7 +6,7 @@
 | title | `string` | true | 배너 하단 큰 글씨 제목 설정 |
 | fullName | `string` | true | 제목 하단 영어 설정 |
 | description | `HighlightingText[]` | true | [HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인. 배너 하단 설명 문구 설정 |
-| background | `HighlightingText[]` | true | [HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인. 개발 배경 설정 |
+| background | `HighlightingText[]` | true | [HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인. 개발 배경 내용 설정 |
 | expectedEffects | `ExpectedEffect[]` | true | [ExpectedEffect 데이터 구조](#expectedeffect-데이터-구조) 확인. 기대 효과 내용 설정 |
 
 ## HighlightingText 데이터 구조
