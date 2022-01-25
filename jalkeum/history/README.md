@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 | year | `string` | true | 연도 |
 | month | `string` | true | 월 |
-| content | `HighlightingText[]` | true | [HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인 |
+| content | `HighlightingText[]` | true | [HighlightingText 데이터 구조](#highlightingtext-데이터-구조) 확인. 해당 연/월 상세 설명 설정 |
 | image | `string` | false | 이미지 이름 설정 |
 
 ## HighlightingText 데이터 구조
