@@ -1,9 +1,8 @@
 {
   "banners": [
-    "banner.png",
-    "banner.png",
-    "banner.png",
-    "banner.png"
+    "banner1.png",
+    "banner2.png",
+    "banner3.png"
   ],
   "title": "키즈런 챌린지 보드마스터즈",
   "subTitle": "언제, 어디서나 신나는 키즈런!",
