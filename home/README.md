@@ -1,5 +1,7 @@
 # 홈
 
+https://jalkeum.herokuapp.com/home
+
 | 키 | 값 | 필수 | 비고 |
 | --- | --- | --- | --- |
 | bannerTitle | `string` | true | |
