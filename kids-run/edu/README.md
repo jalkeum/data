@@ -1,3 +1,3 @@
 # 에듀
 
-[PerformanceDetail](../../../models/performance-detail.md) 확인
+[PerformanceDetail](../../models/performance-detail.md) 확인
